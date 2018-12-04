@@ -1,0 +1,17 @@
+﻿  ej.cpp
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(36): warning C4309: 'argument': truncation of constant value
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(72): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(315): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(316): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(317): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(318): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(356): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(363): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(364): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(371): warning C4309: 'argument': truncation of constant value
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(385): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(386): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\sierpisnky\src\ej.cpp(424): warning C4309: 'argument': truncation of constant value
+  sierpisnky.vcxproj -> C:\Users\Anthon\Desktop\ESCUELA\SAE\prograCompGrafico\myDir\PrincipiosDeCG\x64\Debug\sierpisnky.exe
